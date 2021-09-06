@@ -1,0 +1,356 @@
+{
+    "productos": [
+        {
+            "id": "1",
+            "nombre": "Tennis Converse All Star",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "2",
+            "nombre": "Reloj Inteligente",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "3",
+            "nombre": "Parlante LG Xboom",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "4",
+            "nombre": "Camara Robotica",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 1.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "5",
+            "nombre": "Samsung",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "6",
+            "nombre": "Audífonos Inalámbricos",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "7",
+            "nombre": "Camara Web Webcam",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 2.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "8",
+            "nombre": "Transmisor Receptor De Audio",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "9",
+            "nombre": "Memoria Ram",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 3.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "10",
+            "nombre": "Reloj Inteligente",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "11",
+            "nombre": "Auriculares Deportivo",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.2,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "12",
+            "nombre": "Soldador Inversor",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "13",
+            "nombre": "Cargador Ac Para Asus",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 3.4,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "14",
+            "nombre": "Tableta Inteligente",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "15",
+            "nombre": "Reloj Inteligente Android",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.8,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "16",
+            "nombre": "Refrigerador No Frost",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "17",
+            "nombre": "Mouse De Juego Logitech",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "18",
+            "nombre": "Audífonos In-ear",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "19",
+            "nombre": "Disco Sólido",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "20",
+            "nombre": "Apple AirPods",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 5.0,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "21",
+            "nombre": "Apple Earpods",
+            "marca": "Celumóvil",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "string",
+            "precio": 250000,
+            "seller": "string",
+            "rating": 4.9,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Apple",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        {
+            "id": "22",
+            "nombre": "Zapatos Converse All Star",
+            "marca": "string",
+            "urlFoto": "https://picsum.photos/100/130",
+            "ciudad": "Medellín",
+            "precio": 25000,
+            "seller": "string",
+            "rating": 4.7,
+            "urlFotos": ["https://picsum.photos/200/250","https://picsum.photos/200/250","https://picsum.photos/200/250"],
+            "reseller": {
+                "nombre": "Samsung",
+                "urlLogo": "https://picsum.photos/50/50"
+            },
+            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        }
+    ]
+}
